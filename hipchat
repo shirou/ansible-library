@@ -7,7 +7,6 @@ module: hipchat
 short_description: Send notification to hipchat
 description:
    - Send notification to hipchat
-version_added: "0.1"
 options:
   token:
     description:
